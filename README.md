@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating on my own portfolio<br>🌱 I’m currently learning Javascript, ReactJs, AngularJs<br>💬 Ask me about PHP and Laravel Framework<br>⚡ Fun fact: I would like to meditate and listen to audiobooks
+🔭 I’m currently working on creating my own portfolio<br>🌱 I’m currently learning Javascript, ReactJs, AngularJs<br>💬 Ask me about PHP and Laravel Framework<br>⚡ Fun fact: I would like to meditate and listen to audiobooks
 
 
 ## 🌐 Socials:
